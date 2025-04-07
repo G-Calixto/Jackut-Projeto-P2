@@ -4,14 +4,14 @@ import entitites.Facade;
 public class Main {
     public static void main(String[] args) {
         String[][] testes = {
-                {"entitites.Facade", "tests/us1_1.txt"},
-                {"entitites.Facade", "tests/us1_2.txt"},
-                {"entitites.Facade", "tests/us2_1.txt"},
-                {"entitites.Facade", "tests/us2_2.txt"},
-                {"entitites.Facade", "tests/us3_1.txt"},
-                {"entitites.Facade", "tests/us3_2.txt"},
-                {"entitites.Facade", "tests/us4_1.txt"},
-                {"entitites.Facade", "tests/us4_2.txt"}
+                {"entitites.Facade", "Jackut/tests/us1_1.txt"},
+                {"entitites.Facade", "Jackut/tests/us1_2.txt"},
+                {"entitites.Facade", "Jackut/tests/us2_1.txt"},
+                {"entitites.Facade", "Jackut/tests/us2_2.txt"},
+                {"entitites.Facade", "Jackut/tests/us3_1.txt"},
+                {"entitites.Facade", "Jackut/tests/us3_2.txt"},
+                {"entitites.Facade", "Jackut/tests/us4_1.txt"},
+                {"entitites.Facade", "Jackut/tests/us4_2.txt"}
         };
 
         for (String[] teste : testes) {
