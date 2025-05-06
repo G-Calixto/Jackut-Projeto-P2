@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a670276c-19ea-4fa3-a3b0-d86896c7bc95" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Jackut/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/.idea/libraries/easyaccept.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/data/sistema.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/entitites/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/entities/Facade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/entitites/Systems.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/entities/Systems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/entitites/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/entities/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/RecadoNaoEncontradoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/RecadoNaoEncontradoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/SenhaInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/SenhaInvalidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/UsuarioNaoCadastradoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/UsuarioNaoCadastradoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/UsuarioNaoPodeAdicionarASiMesmoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/exceptionsJackut/UsuarioNaoPodeAdicionarASiMesmoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/src/utils/Persistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/src/utils/Persistencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us1_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us1_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us1_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us1_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us2_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us2_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us2_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us2_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us3_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us3_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us3_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us3_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us4_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us4_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jackut/tests/us4_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jackut/tests/us4_2.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vNv2dUFa2kVQponqkZao3g7Qkr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Run Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel/Documents/GitHub/Jackut-Projeto-P2/Jackut/src/libs/easyaccept.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\Documents\GitHub\Jackut-Projeto-P2\Jackut\src" />
+      <recent name="C:\Users\Gabriel\Documents\GitHub\Jackut-Projeto-P2\Jackut\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Jackut-Projeto-P2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a670276c-19ea-4fa3-a3b0-d86896c7bc95" name="Changes" comment="" />
+      <created>1743998141311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743998141311</updated>
+      <workItem from="1743998142696" duration="191000" />
+      <workItem from="1745961769083" duration="6000" />
+      <workItem from="1746217295308" duration="658000" />
+      <workItem from="1746217972956" duration="46000" />
+      <workItem from="1746218022294" duration="779000" />
+      <workItem from="1746219180118" duration="182000" />
+      <workItem from="1746219366920" duration="230000" />
+      <workItem from="1746219606556" duration="696000" />
+      <workItem from="1746280452109" duration="2176000" />
+      <workItem from="1746285800941" duration="1068000" />
+      <workItem from="1746288570599" duration="110000" />
+      <workItem from="1746289245319" duration="1262000" />
+      <workItem from="1746290529064" duration="2831000" />
+      <workItem from="1746400164715" duration="534000" />
+      <workItem from="1746400809976" duration="1463000" />
+      <workItem from="1746402402624" duration="115000" />
+      <workItem from="1746402524496" duration="2912000" />
+      <workItem from="1746476599690" duration="67000" />
+      <workItem from="1746497910947" duration="5633000" />
+      <workItem from="1746506604141" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
